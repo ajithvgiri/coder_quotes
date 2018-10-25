@@ -1,0 +1,93 @@
+*, html {
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background-color: white;
+  text-rendering: optimizeLegibility;
+  height: 100%;
+  margin: 0px;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 15px;
+  text-align: left;
+}
+
+
+
+
+/*------------- HOME -------------*/
+
+.main-container {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 0 6%;
+}
+
+.intro {
+  background-color: white;
+  padding: 100px 0px;
+}
+
+@media screen and (max-width: 440px) {
+  .intro {
+    padding: 60px 0px;
+  }
+}
+
+
+.title1 {
+  display: inline-block;
+  font-family: "classica-pro", serif;
+  font-weight: 600;
+  font-size: 60px;
+  color: #19191A;
+  margin-top: 0px;
+  margin-left: -2px;
+}
+
+@media screen and (max-width: 440px) {
+  .title1 {
+    font-size: 32px;
+  }
+}
+
+.title2 {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.4;
+  color: #19191A;
+  margin-top: 30px;
+  margin-bottom: 100px;
+  max-width: 820px;
+}
+
+@media screen and (max-width: 440px) {
+  .title2 {
+    font-size: 20px;
+    margin-bottom: 80px;
+  }
+}
+
+
+
+
+/* jQuery enabled behavior for mobile */
+
+.touch .container.no-hover .details {
+  display: none !important;
+}
+
+
+
+
+
+
+/* ######### */
+
+.margin-badge {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+/*# sourceMappingURL=styles.css.map */

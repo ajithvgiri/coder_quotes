@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Coder Quotes",
+  "description": "Programming quotes will shows when you open every new tab in chrome",
+  "version": "1.1",
+  "author": "Ajith v Giri",
+  "browser_action": {
+    "default_title": "New Tab"
+  },
+  "chrome_url_overrides": {
+    "newtab": "dashboard.html"
+  },
+
+  "permissions": ["activeTab","storage"]
+}
