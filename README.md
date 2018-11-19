@@ -1,6 +1,4 @@
 # Coder Quotes
-![Coder Quotes](media/15404549472273/Coder%20Quotes.png)
-
 [![Download](media/15404549472273/ChromeWebStore_Badge_v2_340x96.png)](https://goo.gl/9gnLhg)
 
 Coder quotes is a simple chrome extension which will show Programming Quotes when you open a new tab in Chrome Browser
