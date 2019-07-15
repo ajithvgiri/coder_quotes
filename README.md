@@ -15,3 +15,6 @@ Download or clone this repository
 Open your chrome browser go to **Settings -> Extentions** enable **Developer Mode** and click on **Load unpacked** and browse the downloaded/cloned project location
 
 ![CoderQuotes_macbookpro13_front](media/15404549472273/CoderQuotes_macbookpro13_front.png)
+
+## Step 3 - Download
+[Download]: https://bit.ly/codequotes
