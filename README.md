@@ -17,4 +17,4 @@ Open your chrome browser go to **Settings -> Extentions** enable **Developer Mod
 ![CoderQuotes_macbookpro13_front](media/15404549472273/CoderQuotes_macbookpro13_front.png)
 
 ## Step 3 - Download
-[Download]: https://bit.ly/codequotes
+[Download]:(https://bit.ly/codequotes)
